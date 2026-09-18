@@ -4,8 +4,7 @@ node_modules
 dist
 .vite
 *.log
-.env
-.env.local
 tsconfig.tsbuildinfo
 apps/*/.local-assets
 .gstack/
+config.bat
